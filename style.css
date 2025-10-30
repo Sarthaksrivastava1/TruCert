@@ -430,7 +430,7 @@ input[type="number"]:focus {
 }
 
 .result-card p {
-  color: #ffffff;
+  color: #000000;
   margin-bottom: 12px;
 }
 
